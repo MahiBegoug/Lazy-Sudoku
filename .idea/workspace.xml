@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c384731f-3357-4cda-add1-225e4fe2569c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cOxyaY1jLxkiQh2mP9M9221KjI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="/usr/bin/php" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c384731f-3357-4cda-add1-225e4fe2569c" name="Default Changelist" comment="" />
+      <created>1590413695808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590413695808</updated>
+      <workItem from="1590413697352" duration="2041000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590414483867">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="141" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.741@0.0.1366.741" timestamp="1590414483867" />
+    <state width="1320" height="176" key="GridCell.Tab.0.bottom" timestamp="1590415849803">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1320" height="176" key="GridCell.Tab.0.bottom/0.0.1366.741@0.0.1366.741" timestamp="1590415849803" />
+    <state width="1320" height="176" key="GridCell.Tab.0.center" timestamp="1590415849802">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1320" height="176" key="GridCell.Tab.0.center/0.0.1366.741@0.0.1366.741" timestamp="1590415849802" />
+    <state width="1320" height="176" key="GridCell.Tab.0.left" timestamp="1590415849802">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1320" height="176" key="GridCell.Tab.0.left/0.0.1366.741@0.0.1366.741" timestamp="1590415849802" />
+    <state width="1320" height="176" key="GridCell.Tab.0.right" timestamp="1590415849803">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1320" height="176" key="GridCell.Tab.0.right/0.0.1366.741@0.0.1366.741" timestamp="1590415849803" />
+  </component>
+</project>
